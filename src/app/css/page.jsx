@@ -1,7 +1,7 @@
 "use client";
-import cssSections from "@/data/cssSections";
+import cssSections from "@/components/CssSections";
 import { SiCss3 } from "react-icons/si"; // Add this line
-import React, { useState, useMemo, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import Link from "next/link";
 
 // Helper function to apply basic syntax highlighting to CSS code

@@ -5,7 +5,7 @@
 import { FaChevronRight, FaReact } from "react-icons/fa";
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
-import reactSections from "@/data/reactSections";
+import reactSections from "@/components/ReactSections";
 
 // Main App component for React.js Presentation
 const ReactPage = () => {

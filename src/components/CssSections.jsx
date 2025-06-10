@@ -1,5 +1,5 @@
 import React from "react";
-const { useMemo } = require("react");
+
 
 import {
   FaSearch,
